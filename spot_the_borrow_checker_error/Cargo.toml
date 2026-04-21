@@ -1,0 +1,6 @@
+[package]
+name = "spot_the_borrow_checker_error"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
