@@ -14,6 +14,7 @@ Each chapter's exercises are stored as separate Cargo projects in this repo.
 | [word_frequency_counter](./word_frequency_counter) | [Ch 5 — Data Structures and Collections](https://github.com/microsoft/RustTraining/blob/main/python-book/src/ch05-data-structures-and-collections.md) | HashMap, entry API, iterators, split_whitespace, String vs &str, mutable references |
 | [shape_area_calculator](./shape_area_calculator) | [Ch 6 — Enums and Pattern Matching](https://github.com/microsoft/RustTraining/blob/main/python-book/src/ch06-enums-and-pattern-matching.md) | Enums with struct-like variants, impl blocks, methods, match pattern matching, variant destructuring, std::f64::consts::PI |
 | [spot_the_borrow_checker_error](./spot_the_borrow_checker_error) | [Ch 7 — Ownership and Borrowing](https://github.com/microsoft/RustTraining/blob/main/python-book/src/ch07-ownership-and-borrowing.md) | Ownership, immutable/mutable borrows, references, non-lexical lifetimes (NLL), &str vs String, move semantics |
+| [module_visibility](./module_visibility) | [Ch 8 — Crates and Modules](https://github.com/microsoft/RustTraining/blob/main/python-book/src/ch08-crates-and-modules.md) | Modules (`mod`), visibility (`pub`), nested submodules, `super::` paths, path resolution (`::`), private-by-default encapsulation |
 
 ## Prerequisites
 
